@@ -4,11 +4,11 @@ body {
   }
   
   h1 {
-    color: blue;
+    color: green;
     text-align: center;
   }
   
   p {
-    font-family: verdana;
+    font-family: 'Gill Sans';
     font-size: 20px;
   }
